@@ -4,7 +4,7 @@
 
 #### [Umut Kocasari](https://kocasariumut.github.io/) &nbsp;·&nbsp; [Simon Giebenhain](https://simongiebenhain.github.io/) &nbsp;·&nbsp; [Richard Shaw](https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en) &nbsp;·&nbsp; [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html)
 
-### ECCV 2026
+### ECCV 2026 Oral (Spotlight)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.19702-b31b1b)](https://arxiv.org/abs/2604.19702)
 [![Project Page](https://img.shields.io/badge/Project_Page-green)](https://kocasariumut.github.io/FaceAnything/)
