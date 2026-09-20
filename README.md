@@ -222,11 +222,13 @@ segmentation.
 ## Citation
 
 ```bibtex
-@article{kocasari2026face,
-  title={Face Anything: 4D Face Reconstruction from Any Image Sequence},
-  author={Kocasari, Umut and Giebenhain, Simon and Shaw, Richard and Nie{\ss}ner, Matthias},
-  journal={arXiv preprint arXiv:2604.19702},
-  year={2026}
+@inproceedings{kocasari2026face,
+  title={Face anything: 4d face reconstruction from any image sequence},
+  author={Kocasar{\i}, Umut and Giebenhain, Simon and Shaw, Richard and Nie{\ss}ner, Matthias},
+  booktitle={European Conference on Computer Vision},
+  pages={269--287},
+  year={2026},
+  organization={Springer}
 }
 ```
 
